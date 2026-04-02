@@ -1,5 +1,7 @@
 # 🧠 WeaveIQ
 
+Deployed Link: https://weave-net-two.vercel.app/
+
 > **An AI-powered talent intelligence engine that goes beyond resumes to uncover hidden potential using skill relationships and explainable matching.**
 
 ---
